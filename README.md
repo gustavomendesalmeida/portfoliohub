@@ -56,11 +56,10 @@ Plataforma centralizada para exibir e gerenciar meus projetos e portfólios
 </footer>
 
 <script>
-  // ===== EDITE AQUI =====
-  const AUTOR = "Seu Nome";
-  const USUARIO_GITHUB = "seuusuario"; // troque pelo seu usuário do GitHub
+ 
+  const AUTOR = "Gustavo Mendes Almeida";
+  const USUARIO_GITHUB = "gustavomendesalmeida"; 
 
-  // Para adicionar um projeto, copie um bloco abaixo e edite.
   const projetos = [
     {
       nome: "Study Hub",
